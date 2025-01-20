@@ -59,7 +59,11 @@
   },
   "theiaPluginsDir": "plugins",
   "theiaPlugins": {
-    "eclipse-theia.builtin-extension-pack": "https://open-vsx.org/api/eclipse-theia/builtin-extension-pack/1.95.3/file/eclipse-theia.builtin-extension-pack-1.95.3.vsix",
+    "vscode-language-pack-zh-hans": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.97.0/file/MS-CEINTL.vscode-language-pack-zh-hans-1.97.0.vsix",
+    "vscode-python": "https://open-vsx.org/api/vscode/python/1.95.3/file/vscode.python-1.95.3.vsix",
+    "vscode-lua": "https://open-vsx.org/api/vscode/lua/1.95.3/file/vscode.lua-1.95.3.vsix",
+    "python": "https://open-vsx.org/api/ms-python/python/2024.23.0-dev/file/ms-python.python-2024.23.0-dev.vsix",
+    "robotframework-lsp": "https://open-vsx.org/api/robocorp/robotframework-lsp/1.13.0/file/robocorp.robotframework-lsp-1.13.0.vsix",
     "vscjava.vscode-java-pack": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.29.0/file/vscjava.vscode-java-pack-0.29.0.vsix",
     "vscjava.vscode-java-dependency": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.24.1/file/vscjava.vscode-java-dependency-0.24.1.vsix"
   },
