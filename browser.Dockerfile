@@ -25,3 +25,7 @@ RUN yarn config set network-timeout 600000 -g && \
     yarn autoclean --force && \
     yarn cache clean && \
     rm -rf .git applications/electron theia-extensions/launcher theia-extensions/updater node_modules
+
+FROM scratch
+
+COPY --from=build-stage /home/theia /theia
